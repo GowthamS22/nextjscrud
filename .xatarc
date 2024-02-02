@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Gowtham-P-s-workspace-ltbe7k.eu-west-1.xata.sh/db/nextjscrud",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
